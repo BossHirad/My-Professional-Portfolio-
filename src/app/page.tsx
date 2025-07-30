@@ -111,8 +111,8 @@ export default function Home() {
             <div className="space-y-6">
               <h3 className="text-2xl font-semibold text-slate-900 dark:text-white">Passionate about creating digital experiences</h3>
               <p className="text-slate-600 dark:text-slate-300 text-lg leading-relaxed">
-                I'm Haji, a dedicated software developer and UI/UX designer with a passion for creating 
-                exceptional digital experiences. With experience at companies like Jtech, I've learned 
+                I&apos;m Haji, a dedicated software developer and UI/UX designer with a passion for creating 
+                exceptional digital experiences. With experience at companies like Jtech, I&apos;ve learned 
                 that great design and clean code go hand in hand.
               </p>
               <p className="text-slate-600 dark:text-slate-300 text-lg leading-relaxed">
@@ -317,7 +317,7 @@ export default function Home() {
               <div className="p-6">
                 <h3 className="text-xl font-semibold text-slate-900 dark:text-white mb-2">Jtech Website Redesign</h3>
                 <p className="text-slate-600 dark:text-slate-300 mb-4">
-                  Complete redesign of Jtech's corporate website focusing on modern aesthetics, 
+                  Complete redesign of Jtech&apos;s corporate website focusing on modern aesthetics, 
                   improved user experience, and enhanced conversion rates.
                 </p>
                 <div className="flex flex-wrap gap-2 mb-4">
@@ -424,8 +424,8 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-slate-600 dark:text-slate-300 mb-4">
-                "Haji delivered an exceptional website redesign that exceeded our expectations. 
-                His attention to detail and user experience expertise made all the difference."
+                &quot;Haji delivered an exceptional website redesign that exceeded our expectations. 
+                His attention to detail and user experience expertise made all the difference.&quot;
               </p>
               <div className="flex items-center">
                 <div className="w-10 h-10 bg-blue-600 rounded-full flex items-center justify-center text-white font-semibold mr-3">
@@ -449,8 +449,8 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-slate-600 dark:text-slate-300 mb-4">
-                "Working with Haji was a pleasure. He understood our vision perfectly and 
-                delivered a modern, functional website that our users love."
+                &quot;Working with Haji was a pleasure. He understood our vision perfectly and 
+                delivered a modern, functional website that our users love.&quot;
               </p>
               <div className="flex items-center">
                 <div className="w-10 h-10 bg-green-600 rounded-full flex items-center justify-center text-white font-semibold mr-3">
@@ -473,8 +473,8 @@ export default function Home() {
             <h2 className="text-3xl font-bold text-slate-900 dark:text-white mb-4">Let's Work Together</h2>
             <div className="w-24 h-1 bg-blue-600 mx-auto rounded-full"></div>
             <p className="text-slate-600 dark:text-slate-300 text-lg mt-6 max-w-2xl mx-auto">
-              I'm always interested in new opportunities and exciting projects. 
-              Let's discuss how we can create something amazing together.
+              I&apos;m always interested in new opportunities and exciting projects. 
+              Let&apos;s discuss how we can create something amazing together.
             </p>
           </div>
           
