@@ -470,7 +470,7 @@ export default function Home() {
       <section id="contact" className="py-20 px-4 sm:px-6 lg:px-8 bg-slate-50 dark:bg-slate-800">
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-3xl font-bold text-slate-900 dark:text-white mb-4">Let's Work Together</h2>
+            <h2 className="text-3xl font-bold text-slate-900 dark:text-white mb-4">Let&apos;s Work Together</h2>
             <div className="w-24 h-1 bg-blue-600 mx-auto rounded-full"></div>
             <p className="text-slate-600 dark:text-slate-300 text-lg mt-6 max-w-2xl mx-auto">
               I&apos;m always interested in new opportunities and exciting projects. 
